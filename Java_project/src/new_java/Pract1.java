@@ -3,8 +3,9 @@ package new_java;
 public class Pract1 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("Aman");
+		for(int i = 1 ; i<=5 ; i++) {
+			System.out.println(i);
+		}
 		// TODO Auto-generated method stub
 
 	}
